@@ -1,0 +1,39 @@
+[
+    {
+      "id": "1",
+      "nombre": "Buzo",
+      "precio": "6800",
+      "category": "buzos",
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.montagne.com.ar%2Fproducto%2F988-buzo-de-mujer-algodon-gina&psig=AOvVaw1bsk69_MgckgFs69DXU34_&ust=1700695614418000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLChyIGf1oIDFQAAAAAdAAAAABAE",
+      "stock": "30",
+      "descripcion": "buzos"
+    },
+    {
+      "id": "2",
+      "nombre": "Remera",
+      "precio": "5000",
+      "category": "remeras",
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Fcamiseta-mujer-png&psig=AOvVaw20EaMjfRVk9GZWb1IQCcOs&ust=1700695714880000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi5urGf1oIDFQAAAAAdAAAAABAE",
+      "stock": "20",
+      "descripcion": "remeras"
+    },
+    {
+      "id": "3",
+      "nombre": "Sahumerios",
+      "precio": "600",
+      "category": "sahumerios",
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.portalmayorista.com%2Faromaterapia%2Fsahumerios-bangladesh-100-varillas-sandalo-ps-detail&psig=AOvVaw0W0PJ1kzXxCwWWHq5nzo8o&ust=1700695789641000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi3iNWf1oIDFQAAAAAdAAAAABAE",
+      "stock": "30",
+      "descripcion": "sahumerios"
+    },
+    {
+      "id": "4",
+      "nombre": "Mats",
+      "precio": "3300",
+      "category": "mats",
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.matsnationwide.co.uk%2Fproduct%2Fprinted-door-mats%2F&psig=AOvVaw2Ilih6Cxse2lznj7AYEI9T&ust=1700695834647000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD7zOqf1oIDFQAAAAAdAAAAABAH",
+      "stock": "30",
+      "descripcion": "mats"
+    }
+  ]
+  

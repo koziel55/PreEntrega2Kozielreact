@@ -1,0 +1,61 @@
+.NavBar {
+    text-decoration: none;
+    color: #e8ae78;
+    position: relative;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .titulo {
+    display: flex;
+    align-items: center;
+    width: 50%;
+    text-align: center;
+    -webkit-animation: slide-bottom 0.8s cubic-bezier(0.27, 0.48, 0.47, 0.96) both;
+    animation: slide-bottom 0.8s cubic-bezier(0.27, 0.48, 0.47, 0.96) both;
+    margin: 3.5rem;
+  }
+  .nombrelogo {
+    width: 6rem;
+    height: 6rem;
+    margin: 25px;
+  }
+  
+  .carrito {
+    border: none;
+    color: #0a0a0a;
+    font-size: 32px;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 70%;
+    padding: 12px 22px;
+  }
+  
+  .carrito:hover {
+    color: rgba(255, 255, 255, 0);
+    background-color: rgba(130, 236, 135, 0.171);
+  }
+  
+  .cantidadCarrito {
+    color: black;
+  }
+  
+  .img {
+    width: 40px;
+  }
+  
+  
+  .carrito {
+    background-color: transparent;
+    border: none;
+  }
+  
+  .button {
+    background-color: transparent;
+    border: none;
+  }
+  .cate {
+    display: flex;
+    gap: 1.5rem;
+  }
+  
